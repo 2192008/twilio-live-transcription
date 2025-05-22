@@ -56,7 +56,7 @@ This project is a real-time voice transcription server that connects to Twilioâ€
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/live-transcription.git cd live-transcription
+git clone https://github.com/2192008/twilio-live-transcription.git
 ```
 
 2. Install dependencies
